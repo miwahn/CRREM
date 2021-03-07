@@ -5,7 +5,7 @@ class DataQ():
 
     def __init__(self, query,
                  db="postgres", server="golden-source-2020.cyozpdhauzu4.us-east-2.rds.amazonaws.com",
-                 user="postgres", pwd="Bcidatabase2020"):
+                 user="xxxxx", pwd="xxxxx"):
         self.query      = query
         self.db         = db
         self.server     = server
